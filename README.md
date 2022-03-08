@@ -1,7 +1,6 @@
 # pbenchPlugin
-Phantom load generator (executor) plugin for Taurus
-
-
+Phantom load generator (executor) plugin for Taurus. 
+Was removed from stock Taurus here : https://github.com/Blazemeter/taurus/pull/1445/files 
 
 Execution example:
 ```yaml
